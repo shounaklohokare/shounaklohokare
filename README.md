@@ -11,7 +11,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I am comfortable with Object Oriented Principles.
 - 🔭 I well versed in Advanced Java concepts like Java Server Pages (JSP), Servlets, Java Database Connectivity (JDBC), and Networking.
 - 🔭 I have a keen interest in problem solving. I have solved over 150 Data Structures & Algorithms problems on [LeetCode](https://leetcode.com/shounaklohokare/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shounaklohokare/practice), and [HackerRank](https://www.hackerrank.com/shounaklohokare) combined.
-- 🔭 I am currently learning Spring Boot and AngularJS
+- 🔭 I am currently learning Spring Boot and AngularJS.
 
 
 
