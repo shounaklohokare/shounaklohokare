@@ -6,8 +6,11 @@ Full Stack Developer
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I have solved over 150 Data Structures & Algorithms problems on [LeetCode](https://leetcode.com/shounaklohokare/), GeeksForGeeks, and HackerRank combined 
-- 🔭
+- 🔭 I am proficient in Java, Python, JavaScript, HTML, CSS, Django, Bootstrap, MySQL and Git.
+- 🔭 I am well versed in Object Oriented Principles
+- 🔭 I have also worked on Advance Java concepts like Java Server Page (JSP), Servlets, Java Database Connectivity (JDBC), and Networking.
+- 🔭 I have solved over 150 Data Structures & Algorithms problems on [LeetCode](https://leetcode.com/shounaklohokare/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shounaklohokare/practice), and [HackerRank](https://www.hackerrank.com/shounaklohokare) combined 
+- 🔭 
 
 
 I am a programmer at heart. I have solved over 150 Data Structures & Algorithms problems on LeetCode, GeeksForGeeks, and HackerRank combined. I am proficient in Java, Python, JavaScript, HTML, CSS, Bootstrap and MYSQL. Along with Object Oriented Principles in Java, I have got the hang of Advance Java concepts like Java Server Page (JSP), Servlets, Java Database Connectivity (JDBC), and Networking. I plan to pursue my career in full stack development. I enjoy developing web pages using responsive design principles.
