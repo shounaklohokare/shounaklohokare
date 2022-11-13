@@ -4,6 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- 🔭 I have solved over 150 Data Structures & Algorithms problems on [![LeetCodde](https://leetcode.com/shounaklohokare/), GeeksForGeeks, and HackerRank combined 
+- 🔭
+
+
 I am a programmer at heart. I have solved over 150 Data Structures & Algorithms problems on LeetCode, GeeksForGeeks, and HackerRank combined. I am proficient in Java, Python, JavaScript, HTML, CSS, Bootstrap and MYSQL. Along with Object Oriented Principles in Java, I have got the hang of Advance Java concepts like Java Server Page (JSP), Servlets, Java Database Connectivity (JDBC), and Networking. I plan to pursue my career in full stack development. I enjoy developing web pages using responsive design principles.
 
 * 🌍  I'm based in Pune
