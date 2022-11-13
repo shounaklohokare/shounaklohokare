@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I have solved over 150 Data Structures & Algorithms problems on [![LeetCodde](https://leetcode.com/shounaklohokare/), GeeksForGeeks, and HackerRank combined 
+- 🔭 I have solved over 150 Data Structures & Algorithms problems on [LeetCode](https://leetcode.com/shounaklohokare/), GeeksForGeeks, and HackerRank combined 
 - 🔭
 
 
