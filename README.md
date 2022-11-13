@@ -6,14 +6,17 @@ Full Stack Developer
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I am proficient in Java, Python, JavaScript, AJAX, HTML, CSS, Django, Bootstrap, MySQL and Git.
+- 🔭 I am proficient in Java, Python, JavaScript, AJAX, Django, HTML, CSS, Bootstrap, MySQL and Git Version Control.
+- 🔭 I enjoy developing web pages using responsive design principles.
 - 🔭 I am well versed in Object Oriented Principles
 - 🔭 I have also worked on Advance Java concepts like Java Server Page (JSP), Servlets, Java Database Connectivity (JDBC), and Networking.
 - 🔭 I have solved over 150 Data Structures & Algorithms problems on [LeetCode](https://leetcode.com/shounaklohokare/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shounaklohokare/practice), and [HackerRank](https://www.hackerrank.com/shounaklohokare) combined 
 
 
+
 * 🌍  I'm based in Pune
 * 🧠  I'm learning AngularJS
+
 
 ### Skills
 
