@@ -28,4 +28,3 @@ I am a programmer at heart. I have solved over 150 Data Structures & Algorithms 
                           
                       <a href="https://www.github.com/shounaklohokare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/shounaklohokare" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shounaklohokare&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![](https://komarev.com/ghpvc/?username=your-github-shounaklohokare)
