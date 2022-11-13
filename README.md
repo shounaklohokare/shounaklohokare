@@ -7,9 +7,9 @@ Full Stack Developer
 I am a programmer at heart. I have solved over 150 Data Structures & Algorithms problems on LeetCode, GeeksForGeeks, and HackerRank combined. I am proficient in Java, Python, JavaScript, HTML, CSS, Bootstrap and MYSQL. Along with Object Oriented Principles in Java, I have got the hang of Advance Java concepts like Java Server Page (JSP), Servlets, Java Database Connectivity (JDBC), and Networking. I plan to pursue my career in full stack development. I enjoy developing web pages using responsive design principles.
 
 * 🌍  I'm based in Pune
-* 🧠  I'm learning Angular
+* 🧠  I'm learning AngularJS
 
-
+### Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
