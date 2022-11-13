@@ -9,7 +9,6 @@ I am a programmer at heart. I have solved over 150 Data Structures & Algorithms 
 * 🌍  I'm based in Pune
 * 🧠  I'm learning Angular
 
-### Skills
 
 
 <p align="left">
