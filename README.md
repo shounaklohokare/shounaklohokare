@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a programmer at heart. I have solved over 150 Data Structures & Algorithms problems on LeetCode, GeeksForGeeks, and HackerRank combined. I am proficient in Java, Python, JavaScript, Django, HTML, CSS, Bootstrap, MYSQL and Git. Along with Object Oriented Principles in Java, I have got the hang of Advance Java concepts like Java Server Page (JSP), Servlets, Java Database Connectivity (JDBC), and Networking. I plan to pursue my career in full stack development. I enjoy developing web pages using responsive design principles.
+I am a programmer at heart. I have solved over 150 Data Structures & Algorithms problems on LeetCode, GeeksForGeeks, and HackerRank combined. I am proficient in Java, Python, JavaScript, HTML, CSS, Bootstrap and MYSQL. Along with Object Oriented Principles in Java, I have got the hang of Advance Java concepts like Java Server Page (JSP), Servlets, Java Database Connectivity (JDBC), and Networking. I plan to pursue my career in full stack development. I enjoy developing web pages using responsive design principles.
 
 * 🌍  I'm based in Pune
 * 🧠  I'm learning Angular
@@ -25,10 +25,9 @@ I am a programmer at heart. I have solved over 150 Data Structures & Algorithms 
 </p>
 
 
-### Socials
 
 <p align="left"> <a href="https://www.github.com/shounaklohokare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
-<a href="https://github.com/shounaklohokare" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shounaklohokare&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+<a href="https://github.com/shounaklohokare" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shounaklohokare&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
