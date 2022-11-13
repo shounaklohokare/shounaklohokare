@@ -6,8 +6,12 @@ Full Stack Developer
 
 I am a programmer at heart. I have solved over 150 Data Structures & Algorithms problems on LeetCode, GeeksForGeeks, and HackerRank combined. I am proficient in Java, Python, JavaScript, HTML, CSS, Bootstrap and MYSQL. Along with Object Oriented Principles in Java, I have got the hang of Advance Java concepts like Java Server Page (JSP), Servlets, Java Database Connectivity (JDBC), and Networking. I plan to pursue my career in full stack development. I enjoy developing web pages using responsive design principles.
 
-*   🌍  I'm based in Pune
-*   🧠  I'm learning Angular### Skills 
+* 🌍  I'm based in Pune
+* 🧠  I'm learning Angular
+
+### Skills
+
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -19,10 +23,12 @@ I am a programmer at heart. I have solved over 150 Data Structures & Algorithms 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
-                    
-                
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/shounaklohokare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/shounaklohokare" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shounaklohokare&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/shounaklohokare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/shounaklohokare" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shounaklohokare&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
