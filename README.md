@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I am proficient in Java, Python, JavaScript, AJAX, Django, HTML, CSS, Bootstrap, MySQL and Git Version Control.
+- 🔭 I am proficient in Java, Python, JavaScript, AJAX, jQuery, Django, HTML, CSS, Bootstrap, MySQL and Git Version Control.
 - 🔭 I enjoy developing web pages using responsive web design principles.
 - 🔭 I am comfortable with Object Oriented Principles.
 - 🔭 I am well-versed in Advanced Java concepts like Java Server Pages (JSP), Servlets, Java Database Connectivity (JDBC), and Networking.
