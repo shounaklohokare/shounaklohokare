@@ -6,12 +6,11 @@ Full Stack Developer
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I am proficient in Java, Python, JavaScript, AJAX, jQuery, Django, HTML, CSS, Bootstrap, MySQL and Git Version Control.
-- 🔭 I enjoy developing web pages using responsive web design principles.
-- 🔭 I am comfortable with Object Oriented Principles.
-- 🔭 I am well-versed in Advanced Java concepts like Java Server Pages (JSP), Servlets, Java Database Connectivity (JDBC), and Networking.
+- 🔭 I am proficient in Java, TypeScript, Node.JS, Python, JavaScript, AJAX, jQuery, Django, HTML, CSS, Bootstrap, MySQL and Git Version Control.
+- 🔭 I have experience in developing Azure Functions and am familiar with other serverless technologies.
+- 🔭 I am also experienced in using AzureDevops for CI/CD.
 - 🔭 I have a keen interest in problem-solving. I have solved over 150 Data Structures & Algorithms problems on [LeetCode](https://leetcode.com/shounaklohokare/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shounaklohokare/practice), and [HackerRank](https://www.hackerrank.com/shounaklohokare) combined.
-- 🔭 I am currently learning Spring Boot and ReactJS.
+- 🔭 I am currently learning Express, ReactJS, MongoDB, & Kubernetes.
 
 
 
