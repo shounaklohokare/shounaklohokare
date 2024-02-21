@@ -9,7 +9,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I am proficient in Java, TypeScript, Node.JS, Python, JavaScript, AJAX, jQuery, Django, HTML, CSS, Bootstrap, MySQL and Git Version Control.
 - 🔭 I have experience in developing Azure Functions and am also familiar with other serverless technologies.
 - 🔭 I have a keen interest in problem-solving. I have solved over 150 Data Structures & Algorithms problems on [LeetCode](https://leetcode.com/shounaklohokare/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shounaklohokare/practice), and [HackerRank](https://www.hackerrank.com/shounaklohokare) combined.
-- 🔭 I am currently learning Express, ReactJS, MongoDB, & Kubernetes.
+- 🔭 I am currently learning Express, ReactJS, MongoDB, & Docker.
 
 
 
